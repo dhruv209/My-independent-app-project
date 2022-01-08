@@ -1,0 +1,60 @@
+body{
+background-color:green;
+;
+}
+.header{
+	color:darkblue;
+	font-weight: bold;
+	font-family:cursive;
+	font-size: 45px;
+letter-spacing: 10px;
+margin-top: 80px;
+}
+.header img{
+	width:80px;
+	margin-left: -15px;
+}
+.logo{
+	width:80px;
+	margin-top: 30px;
+	border-radius: 40px;
+}
+.login_div{
+	background-color: yellow;
+	float: none;
+	border-radius: 15px;
+}
+#login_button{
+	width:80%;
+	border-radius: 15px;
+}
+#logout{
+	font-size: 20px;
+	float:right;
+}
+.room_name{
+	cursor: pointer;
+	font-size: 20px;
+}
+#output{
+	padding:10px;
+	width:80%;
+	background-color: crimson;
+	border-radius: 10px;
+}
+.input1{
+	bottom: 0px;
+	position: fixed;
+	width:100%;
+	background-color: azure;
+}
+.input1 label{
+	color:black;
+}
+.input1 input{
+	width:80%;
+}
+.input1 button{
+	margin-top: 15px;
+	width:50%;
+}
